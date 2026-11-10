@@ -1,0 +1,4 @@
+# No external dependencies.
+# This project uses only the Python standard library:
+# os, time, threading, datetime, winsound (Windows only)
+# Requires Python 3.7 or newer.
